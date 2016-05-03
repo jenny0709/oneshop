@@ -1,0 +1,21 @@
+body,h1,h2,h3,h4,h5,h6,form,input,ul,ol,li
+{
+	margin:0;padding:0;list-style:none;
+}
+*{
+	font-family:"Microsoft YaHei",
+	tahoma,arial,
+	"Hiragino Sans GB",
+	"宋体",sans-serif;
+	font-size:12px;
+}
+a{
+	text-decoration:none;
+    color: #333;
+}
+a:hover{
+	color: #c00;
+}
+img{
+	border:none;
+}
